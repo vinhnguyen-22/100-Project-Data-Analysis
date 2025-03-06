@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+openpyxl
+scipy
+scikit-learn
+rapidfuzz
+load_dotenv
+statsmodels
+imblearn
