@@ -1,3 +1,4 @@
+unstructured
 pandas
 numpy
 seaborn
@@ -9,3 +10,13 @@ rapidfuzz
 load_dotenv
 statsmodels
 imblearn
+tesseract
+libmagic
+chromadb
+tiktoken
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+google
+pdfminer

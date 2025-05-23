@@ -5,7 +5,6 @@ from loguru import logger
 from tqdm import tqdm
 
 from src.config import PROCESSED_DATA_DIR
-
 app = typer.Typer()
 
 
